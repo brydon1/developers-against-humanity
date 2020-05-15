@@ -1210,5 +1210,9 @@
   {
     "card_id": 303,
     "prompt": "Comments in the code"
+  },
+  {
+    "card_id": 304,
+    "prompt": "A room full of monkeys banging on keyboards"
   }
 ]
