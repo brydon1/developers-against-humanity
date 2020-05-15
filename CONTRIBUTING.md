@@ -4,7 +4,7 @@
 
 :tada: First off, thanks for taking the time to contribute! :tada:
 
-The following documentation is a set of guidelines for contributing to the Knox Conty Department of Watershed Software Upgrade Project.
+The following documentation is a set of guidelines for contributing to the Developers Against Humanity Project.
 
 ## How can I contribute?
 
