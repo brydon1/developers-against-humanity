@@ -1,0 +1,932 @@
+[
+  {
+    "card_id": 1,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What’s our backup policy?"
+  },
+  {
+    "card_id": 2,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I assure you _ is secure!"
+  },
+  {
+    "card_id": 3,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What ate all of my memory?"
+  },
+  {
+    "card_id": 4,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "140 characters is just enough to explain _."
+  },
+  {
+    "card_id": 5,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ all the way down."
+  },
+  {
+    "card_id": 6,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ as a service."
+  },
+  {
+    "card_id": 7,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ dooms any project to epic failure."
+  },
+  {
+    "card_id": 8,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ is a feature, not a bug."
+  },
+  {
+    "card_id": 9,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ with one weird trick."
+  },
+  {
+    "card_id": 10,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Employees must _ before returning to work."
+  },
+  {
+    "card_id": 11,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Enterprise _ in the cloud."
+  },
+  {
+    "card_id": 12,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Enterprise-ready _."
+  },
+  {
+    "card_id": 13,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Facebook has acquired _ for $10b and _."
+  },
+  {
+    "card_id": 14,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Free as in _."
+  },
+  {
+    "card_id": 15,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Hi, I'm Troy McClure. You may remember me from such commit messages as _ and _."
+  },
+  {
+    "card_id": 16,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "If _ is the answer, you are asking the wrong question."
+  },
+  {
+    "card_id": 17,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "If you're _, you're gonna have a bad time."
+  },
+  {
+    "card_id": 18,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Nobody ever got fired for buying _."
+  },
+  {
+    "card_id": 19,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The Internet is for cat memes and _,"
+  },
+  {
+    "card_id": 20,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Our release schedule doesn't have time for _."
+  },
+  {
+    "card_id": 21,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What is the Internet of Things controlled by?"
+  },
+  {
+    "card_id": 22,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The only thing necessary for evil to triumph is _."
+  },
+  {
+    "card_id": 23,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "WARN: _ has been deprecated."
+  },
+  {
+    "card_id": 24,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Will merge pull requests for _."
+  },
+  {
+    "card_id": 25,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "It worked on my _."
+  },
+  {
+    "card_id": 26,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What’s worse than recruiting spam?"
+  },
+  {
+    "card_id": 27,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "But Google is using _ so we should too!"
+  },
+  {
+    "card_id": 28,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "_ is the new _."
+  },
+  {
+    "card_id": 29,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Apple just patented _."
+  },
+  {
+    "card_id": 30,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "When I was a kid we didn't have _."
+  },
+  {
+    "card_id": 31,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What was the root cause of the outage?"
+  },
+  {
+    "card_id": 32,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The status console is green, but I can't access _."
+  },
+  {
+    "card_id": 33,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "No route to host: _."
+  },
+  {
+    "card_id": 34,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "DevOps: Now with 100% more _!"
+  },
+  {
+    "card_id": 35,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Main benefits of automation: _ and _."
+  },
+  {
+    "card_id": 36,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "...and then there was the time I found _ on the root partition."
+  },
+  {
+    "card_id": 37,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "There was no good solution for _, so we built our own."
+  },
+  {
+    "card_id": 38,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Amazon built a datacenter on the moon to lessen the risk of _ causing problems."
+  },
+  {
+    "card_id": 39,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "In order to improve security, we're upgrading to _."
+  },
+  {
+    "card_id": 40,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I got paged at 3am because of _."
+  },
+  {
+    "card_id": 41,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What’s the most stable part of our infrastructure?"
+  },
+  {
+    "card_id": 42,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "Why did the backup restoration fail?"
+  },
+  {
+    "card_id": 43,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "My two most indispensable tools are _ and _."
+  },
+  {
+    "card_id": 44,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "Why did the production datacenter burn down?"
+  },
+  {
+    "card_id": 45,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "It turns out that the button labeled \"Don't Push\" actually does _."
+  },
+  {
+    "card_id": 46,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I ended up having to buy a replacement _ on eBay."
+  },
+  {
+    "card_id": 47,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ Driven Development."
+  },
+  {
+    "card_id": 48,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Security? We've got that! We use _."
+  },
+  {
+    "card_id": 49,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "When I hooked the 3D printer up to the Internet, it accidentally created _."
+  },
+  {
+    "card_id": 50,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I was using Wireshark to check network traffic. Did you know we have _ in production?"
+  },
+  {
+    "card_id": 51,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Management just told me I need to get certified in _."
+  },
+  {
+    "card_id": 52,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Our app is like _, but for _."
+  },
+  {
+    "card_id": 53,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Marketing says we're leaders in the _ space, but I think it's more accurate to say we specialize in _."
+  },
+  {
+    "card_id": 54,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What was our greatest achievement in the last year?"
+  },
+  {
+    "card_id": 55,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We really need to open-source our _."
+  },
+  {
+    "card_id": 56,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "A sales rep just tried to pitch me on _."
+  },
+  {
+    "card_id": 57,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Who would have known that _ could destroy an entire datacenter?"
+  },
+  {
+    "card_id": 58,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "To secure our next round of funding, Management says we need _."
+  },
+  {
+    "card_id": 59,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Our production backups are stored using _."
+  },
+  {
+    "card_id": 60,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "You know what our app needs? More _, less _."
+  },
+  {
+    "card_id": 61,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Our competitive advantage is our _."
+  },
+  {
+    "card_id": 62,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Every time someone brings up _, I throw up a little in my mouth."
+  },
+  {
+    "card_id": 63,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Continuous _."
+  },
+  {
+    "card_id": 64,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Users are _."
+  },
+  {
+    "card_id": 65,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What are robots going to make obsolete?"
+  },
+  {
+    "card_id": 66,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Accidental _."
+  },
+  {
+    "card_id": 67,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We can just fix that with a little _."
+  },
+  {
+    "card_id": 68,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Functional programming - if you can't _ it, _ it."
+  },
+  {
+    "card_id": 69,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "On a scale from 1 to 10, this is _!"
+  },
+  {
+    "card_id": 70,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We don't need configuration management, we have _!"
+  },
+  {
+    "card_id": 71,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "RedHat has announced that RHEL 8 will ship with _."
+  },
+  {
+    "card_id": 72,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Hey, _ is down. Can you fix it?"
+  },
+  {
+    "card_id": 73,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Did you try _ yet?"
+  },
+  {
+    "card_id": 74,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I was 6 beers in when I got the pager alert that _was down."
+  },
+  {
+    "card_id": 75,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "If it weren't for _ we'd all be _."
+  },
+  {
+    "card_id": 76,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Script kiddies got into _ because _."
+  },
+  {
+    "card_id": 77,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "WAIT, YOU DELETED _?!?!"
+  },
+  {
+    "card_id": 78,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Say concurrent threads again and I will _ you."
+  },
+  {
+    "card_id": 79,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Guys, seriously, if we just use _ it will solve all our problems with _!"
+  },
+  {
+    "card_id": 80,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "github.com/ _ / _"
+  },
+  {
+    "card_id": 81,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Hello. My name is _ and I am addicted to _ ."
+  },
+  {
+    "card_id": 82,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ dependency hell."
+  },
+  {
+    "card_id": 83,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "That talk outline said it would be about _, but it ended up being more like _."
+  },
+  {
+    "card_id": 84,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I will replace you with a very small _."
+  },
+  {
+    "card_id": 85,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "That's not a hacker, that's my _!"
+  },
+  {
+    "card_id": 86,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "It has been _ days since the last _"
+  },
+  {
+    "card_id": 87,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "The _ on the server were deleted because _ ."
+  },
+  {
+    "card_id": 88,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The intern just ran _ on the load balancer."
+  },
+  {
+    "card_id": 89,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Developers do not get access to production machines, because of _."
+  },
+  {
+    "card_id": 90,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Developers need access to production machines because _."
+  },
+  {
+    "card_id": 91,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We run _ in a cron job every 15 minutes."
+  },
+  {
+    "card_id": 92,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The client says it needs more _ ."
+  },
+  {
+    "card_id": 93,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I could hire a _ to do your job!"
+  },
+  {
+    "card_id": 94,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I was hired to maintain this 20 year old script that runs our critical _ infrastructure."
+  },
+  {
+    "card_id": 95,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "C will finally be displaced by _"
+  },
+  {
+    "card_id": 96,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Oh, the _ is just a hack to get the _ to run."
+  },
+  {
+    "card_id": 97,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "How do I even _ ?"
+  },
+  {
+    "card_id": 98,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ all the things."
+  },
+  {
+    "card_id": 99,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "ERROR: _ NOT FOUND"
+  },
+  {
+    "card_id": 100,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We don't need backups, we've got _."
+  },
+  {
+    "card_id": 101,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Learn _ the hard way"
+  },
+  {
+    "card_id": 102,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I accidentally deleted the entire _. Is this dangerous?"
+  },
+  {
+    "card_id": 103,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Security through _."
+  },
+  {
+    "card_id": 104,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ ? You can safely ignore that. Usually."
+  },
+  {
+    "card_id": 105,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "_ isn't cool. You know what's cool? _"
+  },
+  {
+    "card_id": 106,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I just finished working on my rocket powered _."
+  },
+  {
+    "card_id": 107,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I cut-and-pasted this StackOverflow code for my _."
+  },
+  {
+    "card_id": 108,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "It is completely dark. You are likely to be eaten by a _."
+  },
+  {
+    "card_id": 109,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Conway's Game of _."
+  },
+  {
+    "card_id": 110,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Next year I'll start learning _"
+  },
+  {
+    "card_id": 111,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_"
+  },
+  {
+    "card_id": 112,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Amazon does _, why can't we?"
+  },
+  {
+    "card_id": 113,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I can't believe you're still using _."
+  },
+  {
+    "card_id": 114,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I tried _. The doctors say I'll never walk again."
+  },
+  {
+    "card_id": 115,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "git --_"
+  },
+  {
+    "card_id": 116,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "It looks like you're trying to _. Can I help?"
+  },
+  {
+    "card_id": 117,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "bash: command not found: _"
+  },
+  {
+    "card_id": 118,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Network dropped connection because of _."
+  },
+  {
+    "card_id": 119,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We turned off _ and everything magically got better."
+  },
+  {
+    "card_id": 120,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I found a Samba share full of _"
+  },
+  {
+    "card_id": 121,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Read-eval- _ -loop."
+  },
+  {
+    "card_id": 122,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "Is _ something we need to optimize for?"
+  },
+  {
+    "card_id": 123,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Use the _ when the CPU catches on fire."
+  },
+  {
+    "card_id": 124,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "modperl can be used to implement _"
+  },
+  {
+    "card_id": 125,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Listening to the fans in the server farm leads to _"
+  },
+  {
+    "card_id": 126,
+    "type": "q",
+    "blanks": 1,
+    "prompt": "What’s using all of the disk space?"
+  },
+  {
+    "card_id": 127,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "No, _ being hopelessly broken is NOT an emergency."
+  },
+  {
+    "card_id": 128,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Google Analytics says 100% of my website visitors are _"
+  },
+  {
+    "card_id": 129,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_will never get job in Microsoft"
+  },
+  {
+    "card_id": 130,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We can _ just like Netflix"
+  },
+  {
+    "card_id": 131,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "How do I resolve merge conflicts?"
+  },
+  {
+    "card_id": 132,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Our only hope at recovering the data is _"
+  },
+  {
+    "card_id": 133,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ has been killed with fire. My work here is done."
+  },
+  {
+    "card_id": 134,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I just finished writing an API for _."
+  },
+  {
+    "card_id": 135,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ is a batch command to shut the fuck up."
+  },
+  {
+    "card_id": 136,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The first 90% of development is _. The second 90% is _."
+  },
+  {
+    "card_id": 137,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "When you logged in there, did you see a _ that said _"
+  },
+  {
+    "card_id": 138,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I'm pretty sure _ isn't thread safe"
+  },
+  {
+    "card_id": 139,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Of course culture is important to us, that's why we have _."
+  },
+  {
+    "card_id": 140,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The NSA is really interested in our latest project: _."
+  },
+  {
+    "card_id": 141,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Just change the _, it'll be fine."
+  },
+  {
+    "card_id": 142,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We're spending 20% of this sprint doing _."
+  },
+  {
+    "card_id": 143,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "A soiled napkin with the contents of _ scribbled on it"
+  },
+  {
+    "card_id": 144,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Who thought that _ was a good idea?"
+  },
+  {
+    "card_id": 145,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "It's not the recommended configuration to use _ with _ but it's in production right now."
+  },
+  {
+    "card_id": 146,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Artisanally crafted _."
+  },
+  {
+    "card_id": 147,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "The backups are fine, but the restore process is _"
+  },
+  {
+    "card_id": 148,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "I opened the server cabinet and it was full of _."
+  },
+  {
+    "card_id": 149,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Nine circles of _ hell."
+  },
+  {
+    "card_id": 150,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "I'd like _, _, and a pony."
+  },
+  {
+    "card_id": 151,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Only the Enterprise Edition(tm) has _."
+  },
+  {
+    "card_id": 152,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ will help you remember to sanitze your database inputs."
+  },
+  {
+    "card_id": 153,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "We're running _ in production?!"
+  },
+  {
+    "card_id": 154,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "_ has root access."
+  },
+  {
+    "card_id": 155,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "_ is more reliable than _"
+  }
+]
