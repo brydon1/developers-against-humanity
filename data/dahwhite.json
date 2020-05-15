@@ -1214,5 +1214,73 @@
   {
     "card_id": 304,
     "prompt": "A room full of monkeys banging on keyboards"
+  },
+  {
+    "card_id": 305,
+    "prompt": "Stack Overflow"
+  },
+  {
+    "card_id": 306,
+    "prompt": "C++"
+  },
+  {
+    "card_id": 307,
+    "prompt": "Shitty whitespace"
+  },
+  {
+    "card_id": 308,
+    "prompt": "Assembly code"
+  },
+  {
+    "card_id": 309,
+    "prompt": "Python code"
+  },
+  {
+    "card_id": 310,
+    "prompt": "Java"
+  },
+  {
+    "card_id": 311,
+    "prompt": "Copying code from Stack Overflow"
+  },
+  {
+    "card_id": 312,
+    "prompt": "The AI apocalypse"
+  },
+  {
+    "card_id": 313,
+    "prompt": "USB 3.9 Gen 8x4 SuperExtraSpeed 50Gbit/s"
+  },
+  {
+    "card_id": 314,
+    "prompt": "Using the print statement as a debugging tool"
+  },
+  {
+    "card_id": 315,
+    "prompt": "Username: admin/Password: admin:"
+  },
+  {
+    "card_id": 316,
+    "prompt": "SQL"
+  },
+  {
+    "card_id": 317,
+    "prompt": "Being unable to exit Vim"
+  },
+  {
+    "card_id": 318,
+    "prompt": "Web apps that only work correctly in IE 8"
+  },
+  {
+    "card_id": 319,
+    "prompt": "A computer vision model that can't tell the difference between an owl and a pineapple"
+  },
+  {
+    "card_id": 320,
+    "prompt": "That one person who always uses Reply All"
+  },
+  {
+    "card_id": 321,
+    "prompt": "What's a computer?"
   }
 ]
