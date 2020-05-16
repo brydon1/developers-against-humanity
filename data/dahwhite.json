@@ -1418,5 +1418,9 @@
   {
     "card_id": 355,
     "prompt": "Server fans"
+  },
+  {
+    "card_id": 356,
+    "prompt": "A turducken"
   }
 ]
