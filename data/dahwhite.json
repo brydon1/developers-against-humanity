@@ -1282,5 +1282,113 @@
   {
     "card_id": 321,
     "prompt": "What's a computer?"
+  },
+  {
+    "card_id": 322,
+    "prompt": "Backup data"
+  },
+  {
+    "card_id": 323,
+    "prompt": "A box full of optical fiber"
+  },
+  {
+    "card_id": 324,
+    "prompt": "Fried rats that ate through electrical insulation"
+  },
+  {
+    "card_id": 325,
+    "prompt": "Cowbell"
+  },
+  {
+    "card_id": 326,
+    "prompt": "Critical hospital patient records"
+  },
+  {
+    "card_id": 327,
+    "prompt": "Code repository"
+  },
+  {
+    "card_id": 328,
+    "prompt": "Configuration files"
+  },
+  {
+    "card_id": 329,
+    "prompt": "Being fifteen directories deep with no sign of stopping"
+  },
+  {
+    "card_id": 330,
+    "prompt": "Questionable adult materials"
+  },
+  {
+    "card_id": 331,
+    "prompt": "A water-based fire extinguisher"
+  },
+  {
+    "card_id": 332,
+    "prompt": "Lizard people"
+  },
+  {
+    "card_id": 333,
+    "prompt": "Mark Zuckerberg in a bikini"
+  },
+  {
+    "card_id": 334,
+    "prompt": "Bill Gates as a dominatrix"
+  },
+  {
+    "card_id": 335,
+    "prompt": "Monkeys"
+  },
+  {
+    "card_id": 336,
+    "prompt": "Highly intelligent orangutans"
+  },
+  {
+    "card_id": 337,
+    "prompt": "A PUE of 1.9"
+  },
+  {
+    "card_id": 338,
+    "prompt": "A hot pile of butt-trash"
+  },
+  {
+    "card_id": 339,
+    "prompt": "A raging dumpster fire"
+  },
+  {
+    "card_id": 340,
+    "prompt": "Ants"
+  },
+  {
+    "card_id": 341,
+    "prompt": "A SQL injection attack"
+  },
+  {
+    "card_id": 342,
+    "prompt": "Slack"
+  },
+  {
+    "card_id": 343,
+    "prompt": "GitHub"
+  },
+  {
+    "card_id": 344,
+    "prompt": "A Steve McConnell textbook"
+  },
+  {
+    "card_id": 345,
+    "prompt": "Apple Xcode"
+  },
+  {
+    "card_id": 346,
+    "prompt": "Oracle SQL Developer crashes"
+  },
+  {
+    "card_id": 347,
+    "prompt": "The GNU General Public License v3.0"
+  },
+  {
+    "card_id": 348,
+    "prompt": "A developer that hasn't seen the sun in over two weeks"
   }
 ]
