@@ -19,3 +19,4 @@ Make a multi-player Cards Against Humanity game with a custom deck of cards (in 
 - A way to track points
 - Maybe some spiffy animations
 - Easy installation to an Apache or Nginx web server (so, no funky ports)
+- Rando Cardissian mode
