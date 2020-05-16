@@ -37,9 +37,9 @@
   },
   {
     "card_id": 7,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "_ dooms any project to epic failure."
+    "prompt": "What dooms any project to epic failure?"
   },
   {
     "card_id": 8,
@@ -99,7 +99,7 @@
     "card_id": 17,
     "type": "p",
     "blanks": 1,
-    "prompt": "If you're _, you're gonna have a bad time."
+    "prompt": "If you are (or have) _, you're gonna have a bad time."
   },
   {
     "card_id": 18,
@@ -115,9 +115,9 @@
   },
   {
     "card_id": 20,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "Our release schedule doesn't have time for _."
+    "prompt": "What does the release schedule not have time for?"
   },
   {
     "card_id": 21,
@@ -169,15 +169,15 @@
   },
   {
     "card_id": 29,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "Apple just patented _."
+    "prompt": "What did Apple just patent?"
   },
   {
     "card_id": 30,
     "type": "p",
     "blanks": 1,
-    "prompt": "When I was a kid we didn't have _."
+    "prompt": "When I was a kid, we didn't have _."
   },
   {
     "card_id": 31,
@@ -206,7 +206,7 @@
   {
     "card_id": 35,
     "type": "p",
-    "blanks": 1,
+    "blanks": 2,
     "prompt": "Main benefits of automation: _ and _."
   },
   {
@@ -314,7 +314,7 @@
   {
     "card_id": 53,
     "type": "p",
-    "blanks": 1,
+    "blanks": 2,
     "prompt": "Marketing says we're leaders in the _ space, but I think it's more accurate to say we specialize in _."
   },
   {
@@ -363,7 +363,7 @@
     "card_id": 61,
     "type": "p",
     "blanks": 1,
-    "prompt": "Our competitive advantage is our _."
+    "prompt": "What's our competitive advantage?"
   },
   {
     "card_id": 62,
@@ -441,13 +441,13 @@
     "card_id": 74,
     "type": "p",
     "blanks": 1,
-    "prompt": "I was 6 beers in when I got the pager alert that _was down."
+    "prompt": "I was 6 beers in when I got the pager alert that _ was down."
   },
   {
     "card_id": 75,
     "type": "p",
     "blanks": 2,
-    "prompt": "If it weren't for _ we'd all be _."
+    "prompt": "If it weren't for _, we'd all be _."
   },
   {
     "card_id": 76,
@@ -465,13 +465,13 @@
     "card_id": 78,
     "type": "p",
     "blanks": 1,
-    "prompt": "Say concurrent threads again and I will _ you."
+    "prompt": "Say concurrent threads again, and I will _ you."
   },
   {
     "card_id": 79,
     "type": "p",
-    "blanks": 2,
-    "prompt": "Guys, seriously, if we just use _ it will solve all our problems with _!"
+    "blanks": 1,
+    "prompt": "Guys, seriously, if we just use _ it will solve all our problems!"
   },
   {
     "card_id": 80,
@@ -483,7 +483,7 @@
     "card_id": 81,
     "type": "p",
     "blanks": 2,
-    "prompt": "Hello. My name is _ and I am addicted to _ ."
+    "prompt": "Hello. My name is _ and I am addicted to _."
   },
   {
     "card_id": 82,
@@ -512,14 +512,14 @@
   {
     "card_id": 86,
     "type": "p",
-    "blanks": 2,
-    "prompt": "It has been _ days since the last _"
+    "blanks": 1,
+    "prompt": "It has been 2 days since the last _."
   },
   {
     "card_id": 87,
     "type": "p",
     "blanks": 2,
-    "prompt": "The _ on the server were deleted because _ ."
+    "prompt": "The _ on the server were deleted because _."
   },
   {
     "card_id": 88,
@@ -541,15 +541,15 @@
   },
   {
     "card_id": 91,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "We run _ in a cron job every 15 minutes."
+    "prompt": "What runs in a cron job every 15 minutes?"
   },
   {
     "card_id": 92,
     "type": "p",
     "blanks": 1,
-    "prompt": "The client says it needs more _ ."
+    "prompt": "The client says it needs more _."
   },
   {
     "card_id": 93,
@@ -579,13 +579,13 @@
     "card_id": 97,
     "type": "p",
     "blanks": 1,
-    "prompt": "How do I even _ ?"
+    "prompt": "How do I even _?"
   },
   {
     "card_id": 98,
     "type": "p",
     "blanks": 1,
-    "prompt": "_ all the things."
+    "prompt": "_ all the things!"
   },
   {
     "card_id": 99,
@@ -597,13 +597,13 @@
     "card_id": 100,
     "type": "p",
     "blanks": 1,
-    "prompt": "We don't need backups, we've got _."
+    "prompt": "We don't need backups, we've got _!"
   },
   {
     "card_id": 101,
     "type": "p",
     "blanks": 1,
-    "prompt": "Learn _ the hard way"
+    "prompt": "Learn _ the hard way."
   },
   {
     "card_id": 102,
@@ -621,19 +621,19 @@
     "card_id": 104,
     "type": "p",
     "blanks": 1,
-    "prompt": "_ ? You can safely ignore that. Usually."
+    "prompt": "_? You can safely ignore that. Usually."
   },
   {
     "card_id": 105,
     "type": "p",
     "blanks": 2,
-    "prompt": "_ isn't cool. You know what's cool? _"
+    "prompt": "_ isn't cool. You know what's cool? _."
   },
   {
     "card_id": 106,
     "type": "p",
     "blanks": 1,
-    "prompt": "I just finished working on my rocket powered _."
+    "prompt": "I just finished working on my rocket-powered _."
   },
   {
     "card_id": 107,
@@ -657,13 +657,13 @@
     "card_id": 110,
     "type": "p",
     "blanks": 1,
-    "prompt": "Next year I'll start learning _"
+    "prompt": "Next year, I'll start learning _."
   },
   {
     "card_id": 111,
     "type": "p",
     "blanks": 1,
-    "prompt": "_"
+    "prompt": "_."
   },
   {
     "card_id": 112,
@@ -703,9 +703,9 @@
   },
   {
     "card_id": 118,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "Network dropped connection because of _."
+    "prompt": "Why does my network connection keep dropping?"
   },
   {
     "card_id": 119,
@@ -727,7 +727,7 @@
   },
   {
     "card_id": 122,
-    "type": "q",
+    "type": "p",
     "blanks": 1,
     "prompt": "Is _ something we need to optimize for?"
   },
@@ -741,7 +741,7 @@
     "card_id": 124,
     "type": "p",
     "blanks": 1,
-    "prompt": "modperl can be used to implement _"
+    "prompt": "modperl can be used to implement _."
   },
   {
     "card_id": 125,
@@ -765,23 +765,23 @@
     "card_id": 128,
     "type": "p",
     "blanks": 1,
-    "prompt": "Google Analytics says 100% of my website visitors are _"
+    "prompt": "Google Analytics says 100% of my website visitors are _."
   },
   {
     "card_id": 129,
     "type": "p",
     "blanks": 1,
-    "prompt": "_will never get job in Microsoft"
+    "prompt": "_ will never get job in Microsoft"
   },
   {
     "card_id": 130,
     "type": "p",
     "blanks": 1,
-    "prompt": "We can _ just like Netflix"
+    "prompt": "We can _ just like Netflix."
   },
   {
     "card_id": 131,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
     "prompt": "How do I resolve merge conflicts?"
   },
@@ -789,7 +789,7 @@
     "card_id": 132,
     "type": "p",
     "blanks": 1,
-    "prompt": "Our only hope at recovering the data is _"
+    "prompt": "Our only hope at recovering the data is _."
   },
   {
     "card_id": 133,
@@ -812,20 +812,20 @@
   {
     "card_id": 136,
     "type": "p",
-    "blanks": 1,
+    "blanks": 2,
     "prompt": "The first 90% of development is _. The second 90% is _."
   },
   {
     "card_id": 137,
     "type": "p",
     "blanks": 1,
-    "prompt": "When you logged in there, did you see a _ that said _"
+    "prompt": "When you logged in there, did you see a message that said _?"
   },
   {
     "card_id": 138,
     "type": "p",
     "blanks": 1,
-    "prompt": "I'm pretty sure _ isn't thread safe"
+    "prompt": "I'm pretty sure _ isn't thread safe."
   },
   {
     "card_id": 139,
@@ -847,15 +847,15 @@
   },
   {
     "card_id": 142,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "We're spending 20% of this sprint doing _."
+    "prompt": "What are we spending 20% of this development sprint doing?"
   },
   {
     "card_id": 143,
     "type": "p",
     "blanks": 1,
-    "prompt": "A soiled napkin with the contents of _ scribbled on it"
+    "prompt": "A soiled napkin with the contents of _ scribbled on it."
   },
   {
     "card_id": 144,
@@ -866,7 +866,7 @@
   {
     "card_id": 145,
     "type": "p",
-    "blanks": 1,
+    "blanks": 2,
     "prompt": "It's not the recommended configuration to use _ with _ but it's in production right now."
   },
   {
@@ -879,7 +879,7 @@
     "card_id": 147,
     "type": "p",
     "blanks": 1,
-    "prompt": "The backups are fine, but the restore process is _"
+    "prompt": "The backups are fine, but the restore process is _."
   },
   {
     "card_id": 148,
@@ -919,14 +919,20 @@
   },
   {
     "card_id": 154,
-    "type": "p",
+    "type": "q",
     "blanks": 1,
-    "prompt": "_ has root access."
+    "prompt": "What has root access that shouldn't?"
   },
   {
     "card_id": 155,
     "type": "p",
     "blanks": 2,
-    "prompt": "_ is more reliable than _"
+    "prompt": "_ is somehow more reliable than _."
+  },
+  {
+    "card_id": 156,
+    "type": "p",
+    "blanks": 2,
+    "prompt": "Step 1: _. Step 2: _. Step 3: Success."
   }
 ]
