@@ -381,7 +381,7 @@
   },
   {
     "card_id": 96,
-    "prompt": "A simple 15 level Hiera hierarachy"
+    "prompt": "A simple 15 level hierarachy"
   },
   {
     "card_id": 97,
@@ -1390,5 +1390,33 @@
   {
     "card_id": 348,
     "prompt": "A developer that hasn't seen the sun in over two weeks"
+  },
+  {
+    "card_id": 349,
+    "prompt": "A squirrel running around the datacenter"
+  },
+  {
+    "card_id": 350,
+    "prompt": "An IPMI interface with no security"
+  },
+  {
+    "card_id": 351,
+    "prompt": "Birds pissing and shitting on servers"
+  },
+  {
+    "card_id": 352,
+    "prompt": "A squirrel that exploded after climbing into the main transformer"
+  },
+  {
+    "card_id": 353,
+    "prompt": "Someone driving a backhoe through a fiber backbone"
+  },
+  {
+    "card_id": 354,
+    "prompt": "A snake electrocution causing a datacenter power outage"
+  },
+  {
+    "card_id": 355,
+    "prompt": "Server fans"
   }
 ]
