@@ -96,10 +96,69 @@ Once you're done, save the file (Ctrl+S/Cmd+S) and exit your text editor (or don
 
 Commit your file. Committing your file indicates that you've made changes that you'd like to push to the remote repository for everyone else to use. It's kind of like saving your file to the server (in reality, it's a little bit more complicated than that, but that's a good way to think about it). You can commit as much or as little new material as you want. To commit all of the tracked changes, use `git commit -m "Enter your commit message here."`, where your commit message is a succinct description of what changes you've made. If possible, keep it under 50 characters. Include emojis, as indicated in the [CONTRIBUTING.md document](https://github.com/kim3-sudo/developers-against-humanity/blob/master/CONTRIBUTING.md). Here are some example commit messages:
 
-- :tada: Add a function for Rando Cardissian
-- :toilet: Cleaned up helperfunction.prog
-- :lock: Updated npm cards dependency to v5.1.3
+- :tada: (`:tada:`) Add a function for Rando Cardissian
+- :toilet: (`:toilet:`) Cleaned up helperfunction.prog
+- :lock: (`:lock:`) Updated npm cards dependency to v5.1.3
 
 Pull the latest version of the remote repository by using `git pull`. Always pull before pushing.
 
 Finally, push your changes up to the remote repository by using `git push`. 
+
+### Creating and Merging Branches
+
+A branch is like your own version of the repository. You can make a branch to test a new feature, fix a bug, or update some documentation. Once you're satisifed with the state of your branch, you can re-merge it into the master branch. Making a branch has several effects:
+
+- It prevents anyone else from accidentally messing with your WIP code.
+- It provides a safeguard so that your new code doesn't break everything else.
+- It makes sure that someone else's newly added work doesn't break your work.
+- It allows you to roll back broken code by just deleting the branch.
+
+---
+
+You can make a new branch in one-of-two ways: the GitHub way and the terminal way.
+
+#### The GitHub Way
+
+Log into GitHub and access the repository. On the left side, click on "Branch: master." Start typing in the name of your desired new branch, then click on the button to create the new branch.
+
+#### The Terminal Way
+
+Open your terminal and navigate to the local Git repository on your machine. Use the command `git checkout -b <branch-name>`. Don't use the `-b` flag if you are trying to check out an existing branch.
+
+---
+
+Now, you can switch to the new branch. To switch to your new branch in GitHub, click on the "Branch: master" button (or whatever the current branch is), then on the desired existing branch. To switch to an existing branch in the terminal, use the command `git checkout <branch-name>`. Branch names can never have a space. Please refer to the [CONTRIBUTING.md document](https://github.com/kim3-sudo/developers-against-humanity/blob/master/CONTRIBUTING.md) for instructions on how to name your branches.
+
+To check which branch you're on, you can use the command `git branch` in the terminal.
+
+When you make a change to a branch (like editing a file in a branch), your changes are isolated to that branch only. So, if you were to make a change to the `helloworld.py` file in the `tester-hello-world` branch, those changes would not be shown in the master branch.
+
+Once you're sure that your branch is compatible and you're ready to merge your branch into the master branch, it's time to make a pull request. Do NOT use `git merge` in the terminal, please. To make a pull request, open GitHub in your browser, then go to the repository. Switch over to the branch that you'd like to merge. There should be a button to make a new pull request. Give your pull request a good name, then create the request. Now, you'll negotiate your merges. If there are no merge conflicts, then you'll only have to pass a code review by an administrator. This code review is mandated to ensure high software quality. If there are merge conflicts, then you'll have to resolve those. Look at the two versions of the code (yours and the other, changed code) and decide what should go where. You can use a software like Atom to view the merge conflicts in plaintext.
+
+Once your code has been approved and there are no merge conflicts, you'll be able to merge your branch into the master, all through GitHub. After your branch has been merged, you'll be informed that you can safely delete the branch. Please delete your old branches!
+
+## Try It Yourself
+
+Wow, that was a lot of information. If you'd like to try to use Git now, you can fork [this repository](https://github.com/kim3-sudo/gittutorial). Open this link in a web browser, then click on the "Fork" button in the upper right corner. This will make a version of this repository in your account that you can play with. Try the following:
+
+1. Clone your version of the repository to your local computer
+2. Open an existing file in your text editor
+3. Edit that file and save
+4. Commit your changes
+5. Pull, then push your new changes
+6. Create a new file
+7. Add some text to that file and save
+8. Add that new file to the tracking file (`git add`)
+9. Commit the file
+10. Pull, then push your new changes
+
+Branches
+
+1. Make a new branch
+2. Checkout that branch (`git checkout`)
+3. Make some changes on your new branch (edits, commits, pulls, pushes)
+4. Make a new pull request in GitHub and push your branch to the master
+
+## Questions?
+
+If you have questions about using Git or GitHub, ask me via DM in Slack.
