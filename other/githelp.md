@@ -63,3 +63,43 @@ You have it easy. Open up a new Terminal window. Attempt to run `git status`. If
 Git should be installed by default.
 
 ### Cloning the Remote Repository
+
+To clone a remote repository, such as one on GitHub, navigate to the GitHub repository. On the right-side, you should see a green button to Clone/Download. Click it, then copy the URL that's shown under Clone via HTTPS.
+
+On your local computer, open a new PowerShell or Terminal window (depending on whether you're on Windows or macOS) and navigate to the desired directory. To go up a directory, use `cd ..` (change directory) and to enter a directory, use `cd <directoryName>`. To list the contents of the current directory, use `ls` (list).
+
+Once you're in the desired directory in your terminal, say `~/kim3/development`, type `git clone <remote repository URL` and strike Return. For example, if I wanted to copy this repository, I could use `git clone https://github.com/kim3-sudo/developers-against-humanity.git`. To paste in a terminal window, do NOT use Ctrl+C or Cmd+C! Instead, **right-click on the mouse inside of the terminal window to paste**. Ctrl+C is the standard keyboard interrupt and will cancel the current operation!
+
+After the clone from remote repository completes, you can enter that repository by using `cd <repository name>`.
+
+### Making a New File
+
+Now that you're in the new directory, you can open up a Windows Explorer or macOS Finder window and navigate to that same directory that you were in above, such as your Documents folder or a special development folder. There, you'll see the repository that you cloned as a directory, and you can enter it.
+
+In the text editor of your choice (Atom is a pretty good one), you can write out a plaintext file, such as a C++, Python, JavaScript, or text file. Save (Ctrl+S/Cmd+S) in the desired location in the git directory that you cloned earlier.
+
+By default, Git does not track new files. Tracking means that Git is actively following the changes that a file undergoes. An untracked file will not ever get put in the remote repository. To add the file, you need to go back to your terminal. To see if there are files that are untracked, use `git status`. Any untracked files will show up in green, while newly tracked files will show up in green. To track a file, you'll need to add it to the Git configuration file. To do so, run `git add <filename>`. You can also add an entire directory (`git add <directoryname>`). If you want to add everything that's not tracked and showing up in red, you can run `git add .`, which will add everything in the current directory and anything deeper.
+
+Once you add a file to the Git configuration file, you shouldn't ever have to re-add it.
+
+*Helpful Hint: Git doesn't support empty directories. If you really want to keep a directory, you can make a new, empty file named `.gitkeep`. It doesn't need to contain anything, but it lets Git know that it shouldn't get rid of that directory.*
+
+### Editing an Existing File
+
+Most of the time, you'll be editing files that already exist. Before you begin editing, you'll want to make sure that you have the latest version of the remote repository. This decreases the chance of a merge conflict bunging things up. A merge conflict occurs when two people try to edit the same file, and one person's edits would overwrite the other person's edits.
+
+To get the latest version of the remote repository, run `git pull`.
+
+Now, in your Windows Explorer or macOS Finder window, you can find the file that you'd like to edit and open it in your text editor of choice. Edit to your heart's content. Pour your soul into it. Baby it and nurture it. Cherish it forever. Edit that document.
+
+Once you're done, save the file (Ctrl+S/Cmd+S) and exit your text editor (or don't, some text editors support live changes, like Atom). Now, go back to your terminal window. To make sure that your changes will be committed, run a `git status`. If you see that your changes are going to be committed (files in green), then you're good to go. If you need to add your file to the tracking list, use the `git add <filename>` thing from above.
+
+Commit your file. Committing your file indicates that you've made changes that you'd like to push to the remote repository for everyone else to use. It's kind of like saving your file to the server (in reality, it's a little bit more complicated than that, but that's a good way to think about it). You can commit as much or as little new material as you want. To commit all of the tracked changes, use `git commit -m "Enter your commit message here."`, where your commit message is a succinct description of what changes you've made. If possible, keep it under 50 characters. Include emojis, as indicated in the [CONTRIBUTING.md document](https://github.com/kim3-sudo/developers-against-humanity/blob/master/CONTRIBUTING.md). Here are some example commit messages:
+
+- :tada: Add a function for Rando Cardissian
+- :toilet: Cleaned up helperfunction.prog
+- :lock: Updated npm cards dependency to v5.1.3
+
+Pull the latest version of the remote repository by using `git pull`. Always pull before pushing.
+
+Finally, push your changes up to the remote repository by using `git push`. 
