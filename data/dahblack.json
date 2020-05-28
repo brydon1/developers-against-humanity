@@ -934,5 +934,11 @@
     "type": "p",
     "blanks": 2,
     "prompt": "Step 1: _. Step 2: _. Step 3: Success."
+  },
+  {
+    "card_id": 157,
+    "type": "p",
+    "blanks": 1,
+    "prompt": "Dear StackOverflow, I'm having some trouble with _ and would like your help."
   }
 ]

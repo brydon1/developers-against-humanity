@@ -1,51 +1,51 @@
 [
   {
     "card_id": 1,
-    "prompt": "The intern"
+    "prompt": "The intern."
   },
   {
     "card_id": 2,
-    "prompt": "Fucking dependencies"
+    "prompt": "Fucking dependencies."
   },
   {
     "card_id": 3,
-    "prompt": "A former MENSA member"
+    "prompt": "A former MENSA member."
   },
   {
     "card_id": 4,
-    "prompt": "Being acquired by Oracle"
+    "prompt": "Being acquired by Oracle."
   },
   {
     "card_id": 5,
-    "prompt": "Brogrammers"
+    "prompt": "Brogrammers."
   },
   {
     "card_id": 6,
-    "prompt": "Command-line magic"
+    "prompt": "Command-line magic."
   },
   {
     "card_id": 7,
-    "prompt": "Continuous integration"
+    "prompt": "Continuous integration."
   },
   {
     "card_id": 8,
-    "prompt": "Copypasta"
+    "prompt": "Copypasta."
   },
   {
     "card_id": 9,
-    "prompt": "The Cult of Mac"
+    "prompt": "The Cult of Mac."
   },
   {
     "card_id": 10,
-    "prompt": "Degraded performance in some AWS availability zones"
+    "prompt": "Degraded performance in some AWS availability zones."
   },
   {
     "card_id": 11,
-    "prompt": "Developers"
+    "prompt": "Developers."
   },
   {
     "card_id": 12,
-    "prompt": "DevOps"
+    "prompt": "DevOps."
   },
   {
     "card_id": 13,
@@ -53,139 +53,139 @@
   },
   {
     "card_id": 14,
-    "prompt": "Git"
+    "prompt": "Git."
   },
   {
     "card_id": 15,
-    "prompt": "LinkedIn"
+    "prompt": "LinkedIn."
   },
   {
     "card_id": 16,
-    "prompt": "Meritocracy"
+    "prompt": "Meritocracy."
   },
   {
     "card_id": 17,
-    "prompt": "MongoDB"
+    "prompt": "MongoDB."
   },
   {
     "card_id": 18,
-    "prompt": "Node.js"
+    "prompt": "Node.js."
   },
   {
     "card_id": 19,
-    "prompt": "NPM"
+    "prompt": "NPM."
   },
   {
     "card_id": 20,
-    "prompt": "Pareto Inefficient Nash Equilibriums"
+    "prompt": "Pareto Inefficient Nash Equilibriums."
   },
   {
     "card_id": 21,
-    "prompt": "Python"
+    "prompt": "Python."
   },
   {
     "card_id": 22,
-    "prompt": "Python datetime module"
+    "prompt": "Python datetime module."
   },
   {
     "card_id": 23,
-    "prompt": "Rebasing the entire fucking repo"
+    "prompt": "Rebasing the entire fucking repo."
   },
   {
     "card_id": 24,
-    "prompt": "Ruby"
+    "prompt": "Ruby."
   },
   {
     "card_id": 25,
-    "prompt": "Running out of IPv4 addresses"
+    "prompt": "Running out of IPv4 addresses."
   },
   {
     "card_id": 26,
-    "prompt": "Sysadmins"
+    "prompt": "Sysadmins."
   },
   {
     "card_id": 27,
-    "prompt": "Twitter"
+    "prompt": "Twitter."
   },
   {
     "card_id": 28,
-    "prompt": "Unicode errors"
+    "prompt": "Unicode errors."
   },
   {
     "card_id": 29,
-    "prompt": "Unknown source in your stack trace"
+    "prompt": "Unknown source in your stack trace."
   },
   {
     "card_id": 30,
-    "prompt": "Waiting for console.aws.amazon.com"
+    "prompt": "Waiting for console.aws.amazon.com."
   },
   {
     "card_id": 31,
-    "prompt": "Women in tech"
+    "prompt": "Women in tech."
   },
   {
     "card_id": 32,
-    "prompt": "Yet another package manager"
+    "prompt": "Yet another package manager."
   },
   {
     "card_id": 33,
-    "prompt": "Our release engineer"
+    "prompt": "Our release engineer."
   },
   {
     "card_id": 34,
-    "prompt": "OpenSSL"
+    "prompt": "OpenSSL."
   },
   {
     "card_id": 35,
-    "prompt": "Heartbleed"
+    "prompt": "Heartbleed."
   },
   {
     "card_id": 36,
-    "prompt": "The NSA"
+    "prompt": "The NSA."
   },
   {
     "card_id": 37,
-    "prompt": "O'Reilly Publishing"
+    "prompt": "O'Reilly Publishing."
   },
   {
     "card_id": 38,
-    "prompt": "Edward Snowden"
+    "prompt": "Edward Snowden."
   },
   {
     "card_id": 39,
-    "prompt": "Digital Ocean"
+    "prompt": "DigitalOcean."
   },
   {
     "card_id": 40,
-    "prompt": "Functional programming"
+    "prompt": "Functional programming."
   },
   {
     "card_id": 41,
-    "prompt": "Stack trace generator"
+    "prompt": "Stack trace generator."
   },
   {
     "card_id": 42,
-    "prompt": "NoSQL"
+    "prompt": "NoSQL."
   },
   {
     "card_id": 43,
-    "prompt": "Windows XP"
+    "prompt": "Windows XP."
   },
   {
     "card_id": 44,
-    "prompt": "2400 baud modem"
+    "prompt": "A 2400 baud modem."
   },
   {
     "card_id": 45,
-    "prompt": "A squirrel with a taste for fiber"
+    "prompt": "A squirrel with a taste for fiber."
   },
   {
     "card_id": 46,
-    "prompt": "Zombie processes"
+    "prompt": "Zombie processes."
   },
   {
     "card_id": 47,
-    "prompt": "Snowflake server"
+    "prompt": "Snowflake server."
   },
   {
     "card_id": 48,
@@ -193,203 +193,203 @@
   },
   {
     "card_id": 49,
-    "prompt": "Apache 1.2 running as root"
+    "prompt": "Apache 1.2 running as root."
   },
   {
     "card_id": 50,
-    "prompt": "More buzzwords than you can shake a scrum at"
+    "prompt": "More buzzwords than you can shake a scrum at."
   },
   {
     "card_id": 51,
-    "prompt": "A GitHub outage that lasts longer than 4 hours"
+    "prompt": "A GitHub outage that lasts longer than 4 hours."
   },
   {
     "card_id": 52,
-    "prompt": "VisualBasic DLLs"
+    "prompt": "VisualBasic DLLs."
   },
   {
     "card_id": 53,
-    "prompt": "An epic caffeine bender"
+    "prompt": "An epic caffeine bender."
   },
   {
     "card_id": 54,
-    "prompt": "Hypervisors running hypervisors running hypervisors"
+    "prompt": "Hypervisors running hypervisors running hypervisors."
   },
   {
     "card_id": 55,
-    "prompt": "An angry badger with an electromagnet on its back"
+    "prompt": "An angry badger with an electromagnet on its back."
   },
   {
     "card_id": 56,
-    "prompt": "A shared root password"
+    "prompt": "A shared root password."
   },
   {
     "card_id": 57,
-    "prompt": "Private keys in /var/www"
+    "prompt": "Private keys in /var/www."
   },
   {
     "card_id": 58,
-    "prompt": "Parsing HTML with regex"
+    "prompt": "Parsing HTML with regex."
   },
   {
     "card_id": 59,
-    "prompt": "A 3.5\" floppy disk"
+    "prompt": "A 3.5\" floppy disk."
   },
   {
     "card_id": 60,
-    "prompt": "An untested restore process"
+    "prompt": "An untested restore process."
   },
   {
     "card_id": 61,
-    "prompt": "A cron job that reboots the server every 5 minutes"
+    "prompt": "A cron job that reboots the server every 5 minutes."
   },
   {
     "card_id": 62,
-    "prompt": "Sadness as a Service"
+    "prompt": "Sadness as a Service."
   },
   {
     "card_id": 63,
-    "prompt": "Cloud-based business strategy"
+    "prompt": "Cloud-based business strategy."
   },
   {
     "card_id": 64,
-    "prompt": "Cloud 2.0"
+    "prompt": "Cloud 2.0."
   },
   {
     "card_id": 65,
-    "prompt": "The next Y2K"
+    "prompt": "The next Y2K."
   },
   {
     "card_id": 66,
-    "prompt": "An army of chaos monkeys, all carrying flamethrowers"
+    "prompt": "An army of chaos monkeys, all carrying flamethrowers."
   },
   {
     "card_id": 67,
-    "prompt": "Agony-Driven Development"
+    "prompt": "Agony-Driven Development."
   },
   {
     "card_id": 68,
-    "prompt": "Catastrophic Failure as a Service"
+    "prompt": "Catastrophic Failure as a Service."
   },
   {
     "card_id": 69,
-    "prompt": "10,000 Nagios alerts per second"
+    "prompt": "10,000 Nagios alerts per second."
   },
   {
     "card_id": 70,
-    "prompt": "A global write lock"
+    "prompt": "A global write lock."
   },
   {
     "card_id": 71,
-    "prompt": "75-tier architecture"
+    "prompt": "75-tier architecture."
   },
   {
     "card_id": 72,
-    "prompt": "Hand-crafted artisan x86 assembly code"
+    "prompt": "Hand-crafted artisan x86 assembly code."
   },
   {
     "card_id": 73,
-    "prompt": "A self-aware PHP script"
+    "prompt": "A self-aware PHP script."
   },
   {
     "card_id": 74,
-    "prompt": "A 500-megabyte UDP packet"
+    "prompt": "A 500-megabyte UDP packet."
   },
   {
     "card_id": 75,
-    "prompt": "A Null-modem cable"
+    "prompt": "A null-modem cable."
   },
   {
     "card_id": 76,
-    "prompt": "A turducken made entirely of bash scripts"
+    "prompt": "A turducken made entirely of bash scripts."
   },
   {
     "card_id": 77,
-    "prompt": "Write-only code"
+    "prompt": "Write-only code."
   },
   {
     "card_id": 78,
-    "prompt": "3 hour standups"
+    "prompt": "3 hour standups."
   },
   {
     "card_id": 79,
-    "prompt": "A piñata full of error messages"
+    "prompt": "A piñata full of error messages."
   },
   {
     "card_id": 80,
-    "prompt": "Mutation of immutable data"
+    "prompt": "Mutation of immutable data."
   },
   {
     "card_id": 81,
-    "prompt": "Downloading the entire internet"
+    "prompt": "Downloading the entire internet."
   },
   {
     "card_id": 82,
-    "prompt": "Continuous Disintegration"
+    "prompt": "Continuous Disintegration."
   },
   {
     "card_id": 83,
-    "prompt": "IE6"
+    "prompt": "IE6."
   },
   {
     "card_id": 84,
-    "prompt": "Scrum Master"
+    "prompt": "Scrum Master."
   },
   {
     "card_id": 85,
-    "prompt": "A couple of Adderall"
+    "prompt": "A couple of Adderall."
   },
   {
     "card_id": 86,
-    "prompt": "An angry whale shitting containers"
+    "prompt": "An angry whale shitting containers."
   },
   {
     "card_id": 87,
-    "prompt": "Accidentally burning the entire data center to the ground"
+    "prompt": "Accidentally burning the entire datacenter to the ground."
   },
   {
     "card_id": 88,
-    "prompt": "Freebasing caffeine"
+    "prompt": "Freebasing caffeine."
   },
   {
     "card_id": 89,
-    "prompt": "Fat fingered"
+    "prompt": "Fat fingered."
   },
   {
     "card_id": 90,
-    "prompt": "Half-open TCP connections"
+    "prompt": "Half-open TCP connections."
   },
   {
     "card_id": 91,
-    "prompt": "Steve Balmer wielding a battleaxe"
+    "prompt": "Steve Balmer wielding a battleaxe."
   },
   {
     "card_id": 92,
-    "prompt": "A 50k line Bash script that's achieved self-awareness"
+    "prompt": "A 50k line Bash script that's achieved self-awareness."
   },
   {
     "card_id": 93,
-    "prompt": "Enterprise Grade Bash scripts"
+    "prompt": "Enterprise Grade Bash scripts."
   },
   {
     "card_id": 94,
-    "prompt": "Agile"
+    "prompt": "Agile."
   },
   {
     "card_id": 95,
-    "prompt": "A pink sombrero and a fifth of tequila"
+    "prompt": "A pink sombrero and a fifth of tequila."
   },
   {
     "card_id": 96,
-    "prompt": "A simple 15 level hierarachy"
+    "prompt": "A simple 15 level hierarachy."
   },
   {
     "card_id": 97,
-    "prompt": "High Availability"
+    "prompt": "High Availability."
   },
   {
     "card_id": 98,
-    "prompt": "Map-Reduce"
+    "prompt": "Map-Reduce."
   },
   {
     "card_id": 99,
@@ -397,31 +397,31 @@
   },
   {
     "card_id": 100,
-    "prompt": "A firewall full of holes"
+    "prompt": "A firewall full of holes."
   },
   {
     "card_id": 101,
-    "prompt": "An uncontrollable deluge of emails"
+    "prompt": "An uncontrollable deluge of emails."
   },
   {
     "card_id": 102,
-    "prompt": "A jailbroken iPad"
+    "prompt": "A jailbroken iPad."
   },
   {
     "card_id": 103,
-    "prompt": "Docker"
+    "prompt": "Docker."
   },
   {
     "card_id": 104,
-    "prompt": "A cold cup of coffee"
+    "prompt": "A cold cup of coffee."
   },
   {
     "card_id": 105,
-    "prompt": "Destroying your tools with your tools"
+    "prompt": "Destroying your tools with your tools."
   },
   {
     "card_id": 106,
-    "prompt": "A dozen vendor t-shirts"
+    "prompt": "A dozen vendor t-shirts."
   },
   {
     "card_id": 107,
@@ -429,47 +429,47 @@
   },
   {
     "card_id": 108,
-    "prompt": "Kernel panic"
+    "prompt": "Kernel panic."
   },
   {
     "card_id": 109,
-    "prompt": "Percussive maintenance"
+    "prompt": "Percussive maintenance."
   },
   {
     "card_id": 110,
-    "prompt": "IE 7 Support"
+    "prompt": "IE 7 support."
   },
   {
     "card_id": 111,
-    "prompt": "Unix philosophy"
+    "prompt": "Unix philosophy."
   },
   {
     "card_id": 112,
-    "prompt": "Trying to install MongoDB on AIX 3"
+    "prompt": "Trying to install MongoDB on AIX 3."
   },
   {
     "card_id": 113,
-    "prompt": "A server rack full of crushed dreams"
+    "prompt": "A server rack full of crushed dreams."
   },
   {
     "card_id": 114,
-    "prompt": "Node.js"
+    "prompt": "Node.js."
   },
   {
     "card_id": 115,
-    "prompt": "Full-stack developer"
+    "prompt": "Full-stack developer."
   },
   {
     "card_id": 116,
-    "prompt": "A new printer"
+    "prompt": "A new printer."
   },
   {
     "card_id": 117,
-    "prompt": "A potato"
+    "prompt": "A potato."
   },
   {
     "card_id": 118,
-    "prompt": "Office Space"
+    "prompt": "Office space."
   },
   {
     "card_id": 119,
@@ -481,175 +481,175 @@
   },
   {
     "card_id": 121,
-    "prompt": "Your account"
+    "prompt": "Your account."
   },
   {
     "card_id": 122,
-    "prompt": "Single stepping through the kernel"
+    "prompt": "Single stepping through the kernel."
   },
   {
     "card_id": 123,
-    "prompt": "De-linting source code"
+    "prompt": "De-linting source code."
   },
   {
     "card_id": 124,
-    "prompt": "Significant whitespace"
+    "prompt": "Significant whitespace."
   },
   {
     "card_id": 125,
-    "prompt": "Smart quotes"
+    "prompt": "Smart quotes."
   },
   {
     "card_id": 126,
-    "prompt": "A series of tubes"
+    "prompt": "A series of tubes."
   },
   {
     "card_id": 127,
-    "prompt": "Secret sauce"
+    "prompt": "Secret sauce."
   },
   {
     "card_id": 128,
-    "prompt": "Authentication and authorization"
+    "prompt": "Authentication and authorization."
   },
   {
     "card_id": 129,
-    "prompt": "A cluster of applications on a cluster of servers"
+    "prompt": "A cluster of applications on a cluster of servers."
   },
   {
     "card_id": 130,
-    "prompt": "Beating the server into submission with your bare hands"
+    "prompt": "Beating the server into submission with your bare hands."
   },
   {
     "card_id": 131,
-    "prompt": "Merge Conflicts"
+    "prompt": "Merge conflicts."
   },
   {
     "card_id": 132,
-    "prompt": "Unplugging a server and waiting to see who complains"
+    "prompt": "\"Unplugging a server and waiting to see who complains.\""
   },
   {
     "card_id": 133,
-    "prompt": "A tiny ounce of knowledge"
+    "prompt": "A tiny ounce of knowledge."
   },
   {
     "card_id": 134,
-    "prompt": "The NoQA Movement"
+    "prompt": "The NoQA Movement."
   },
   {
     "card_id": 135,
-    "prompt": "A few instances"
+    "prompt": "A few instances."
   },
   {
     "card_id": 136,
-    "prompt": "Cowboy developer"
+    "prompt": "Cowboy developer."
   },
   {
     "card_id": 137,
-    "prompt": "a torrent of Torrenters torrenting"
+    "prompt": "A torrent of Torrenters torrenting."
   },
   {
     "card_id": 138,
-    "prompt": "Donald Knuth"
+    "prompt": "Donald Knuth."
   },
   {
     "card_id": 139,
-    "prompt": "Rebooting All The Things"
+    "prompt": "Rebooting ALL the things."
   },
   {
     "card_id": 140,
-    "prompt": "Animated GIF"
+    "prompt": "Animated GIFs."
   },
   {
     "card_id": 141,
-    "prompt": "Heartbleed"
+    "prompt": "Heartbleed."
   },
   {
     "card_id": 142,
-    "prompt": "Automation"
+    "prompt": "Automation."
   },
   {
     "card_id": 143,
-    "prompt": "Cache"
+    "prompt": "Cache."
   },
   {
     "card_id": 144,
-    "prompt": "An online book seller"
+    "prompt": "An online book seller."
   },
   {
     "card_id": 145,
-    "prompt": "Dust bunnies"
+    "prompt": "Dust bunnies."
   },
   {
     "card_id": 146,
-    "prompt": "A sad log with a mustache"
+    "prompt": "A sad log with a mustache."
   },
   {
     "card_id": 147,
-    "prompt": "The blue screen of death"
+    "prompt": "The blue screen of death."
   },
   {
     "card_id": 148,
-    "prompt": "ISO 9001"
+    "prompt": "ISO 9001."
   },
   {
     "card_id": 149,
-    "prompt": "Linus Torvalds"
+    "prompt": "Linus Torvalds."
   },
   {
     "card_id": 150,
-    "prompt": "A pimply faced youth with nothing to lose"
+    "prompt": "A pimply faced youth with nothing to lose."
   },
   {
     "card_id": 151,
-    "prompt": "Hate driven development"
+    "prompt": "Hate driven development."
   },
   {
     "card_id": 152,
-    "prompt": "Lotus123"
+    "prompt": "Lotus123."
   },
   {
     "card_id": 153,
-    "prompt": "GNU/Linux"
+    "prompt": "GNU/Linux."
   },
   {
     "card_id": 154,
-    "prompt": "SQLite"
+    "prompt": "SQLite."
   },
   {
     "card_id": 155,
-    "prompt": "Leap second bug"
+    "prompt": "Leap second bug."
   },
   {
     "card_id": 156,
-    "prompt": "Continuous deployment"
+    "prompt": "Continuous deployment."
   },
   {
     "card_id": 157,
-    "prompt": "Tor"
+    "prompt": "Tor."
   },
   {
     "card_id": 158,
-    "prompt": "Bash"
+    "prompt": "Bash."
   },
   {
     "card_id": 159,
-    "prompt": "Vegan friendly init scripts"
+    "prompt": "Vegan friendly init scripts."
   },
   {
     "card_id": 160,
-    "prompt": "Committing from the bar"
+    "prompt": "Committing from the bar."
   },
   {
     "card_id": 161,
-    "prompt": "Servers that follow daylight savings time"
+    "prompt": "Servers that follow daylight savings time."
   },
   {
     "card_id": 162,
-    "prompt": "Your private browsing history"
+    "prompt": "Your private browsing history."
   },
   {
     "card_id": 163,
-    "prompt": "Wearing protection during peer programming"
+    "prompt": "Wearing protection during peer programming."
   },
   {
     "card_id": 164,
@@ -657,19 +657,19 @@
   },
   {
     "card_id": 165,
-    "prompt": "Arguing over the internet"
+    "prompt": "Arguing over the internet."
   },
   {
     "card_id": 166,
-    "prompt": "Profanity in the git log"
+    "prompt": "Profanity in the git log."
   },
   {
     "card_id": 167,
-    "prompt": "FAT32"
+    "prompt": "FAT32."
   },
   {
     "card_id": 168,
-    "prompt": "sudo"
+    "prompt": "sudo."
   },
   {
     "card_id": 169,
@@ -677,15 +677,15 @@
   },
   {
     "card_id": 170,
-    "prompt": "HTML9 Responsive Boilerstrap JS"
+    "prompt": "HTML9 Responsive Boilerstrap JS."
   },
   {
     "card_id": 171,
-    "prompt": "Neckbeards"
+    "prompt": "Neckbeards."
   },
   {
     "card_id": 172,
-    "prompt": "A certified SCRUM master"
+    "prompt": "A certified SCRUM master."
   },
   {
     "card_id": 173,
@@ -693,11 +693,11 @@
   },
   {
     "card_id": 174,
-    "prompt": "Forcing push to master"
+    "prompt": "Forcing push to master."
   },
   {
     "card_id": 175,
-    "prompt": "A German installation of Windows NT4"
+    "prompt": "A German installation of Windows NT4."
   },
   {
     "card_id": 176,
@@ -705,39 +705,39 @@
   },
   {
     "card_id": 177,
-    "prompt": "A $60 QNAP appliance and some positive thinking"
+    "prompt": "A $60 QNAP appliance and some positive thinking."
   },
   {
     "card_id": 178,
-    "prompt": "A Raspberry Pi"
+    "prompt": "A Raspberry Pi."
   },
   {
     "card_id": 179,
-    "prompt": "Windows ME"
+    "prompt": "Windows ME."
   },
   {
     "card_id": 180,
-    "prompt": "Active Directory"
+    "prompt": "Active Directory."
   },
   {
     "card_id": 181,
-    "prompt": "Conflict minerals"
+    "prompt": "Conflict minerals."
   },
   {
     "card_id": 182,
-    "prompt": "Continuous incineration"
+    "prompt": "Continuous incineration."
   },
   {
     "card_id": 183,
-    "prompt": "The gentle sound of weeping drifting from the server room"
+    "prompt": "The gentle sound of weeping drifting from the server room."
   },
   {
     "card_id": 184,
-    "prompt": "Microsoft® Azure"
+    "prompt": "Microsoft® Azure."
   },
   {
     "card_id": 185,
-    "prompt": "That moment when you realize CTRL-Z cannot save you"
+    "prompt": "That moment when you realize CTRL-Z cannot save you."
   },
   {
     "card_id": 186,
@@ -745,43 +745,43 @@
   },
   {
     "card_id": 187,
-    "prompt": "Ethernet"
+    "prompt": "Ethernet."
   },
   {
     "card_id": 188,
-    "prompt": "IPv6"
+    "prompt": "IPv6."
   },
   {
     "card_id": 189,
-    "prompt": "Re-writing deployment scripts at 2 AM"
+    "prompt": "Re-writing deployment scripts at 2 AM."
   },
   {
     "card_id": 190,
-    "prompt": "Piping /var/log/messages to Twitter"
+    "prompt": "Piping /var/log/messages to Twitter."
   },
   {
     "card_id": 191,
-    "prompt": "Bare metal"
+    "prompt": "Bare metal."
   },
   {
     "card_id": 192,
-    "prompt": "A pseudorandom number generator"
+    "prompt": "A pseudorandom number generator."
   },
   {
     "card_id": 193,
-    "prompt": "An outage window"
+    "prompt": "An outage window."
   },
   {
     "card_id": 194,
-    "prompt": "phpMyAdmin"
+    "prompt": "phpMyAdmin."
   },
   {
     "card_id": 195,
-    "prompt": "Righteous Anger"
+    "prompt": "Righteous anger."
   },
   {
     "card_id": 196,
-    "prompt": "Crowdsourced Architecture"
+    "prompt": "Crowdsourced architecture."
   },
   {
     "card_id": 197,
@@ -789,67 +789,67 @@
   },
   {
     "card_id": 198,
-    "prompt": "CEOs with root access"
+    "prompt": "CEOs with root access."
   },
   {
     "card_id": 199,
-    "prompt": "Automagic Metaprogramming"
+    "prompt": "Automagical metaprogramming."
   },
   {
     "card_id": 200,
-    "prompt": "Re-implementing TCP over UDP"
+    "prompt": "Re-implementing TCP over UDP."
   },
   {
     "card_id": 201,
-    "prompt": "Rewriting bash scripts as CMD batch jobs"
+    "prompt": "Rewriting bash scripts as CMD batch jobs."
   },
   {
     "card_id": 202,
-    "prompt": "Haskell"
+    "prompt": "Haskell."
   },
   {
     "card_id": 203,
-    "prompt": "Jenkins"
+    "prompt": "Jenkins."
   },
   {
     "card_id": 204,
-    "prompt": "Bingo Balls"
+    "prompt": "Bingo balls."
   },
   {
     "card_id": 205,
-    "prompt": "Mechanically Recovered Turkey"
+    "prompt": "Mechanically recovered turkey."
   },
   {
     "card_id": 206,
-    "prompt": "ChatOps"
+    "prompt": "ChatOps."
   },
   {
     "card_id": 207,
-    "prompt": "WONTFIX"
+    "prompt": "WONTFIX."
   },
   {
     "card_id": 208,
-    "prompt": "Trello board"
+    "prompt": "Trello boards."
   },
   {
     "card_id": 209,
-    "prompt": "Big ball of mud"
+    "prompt": "Big ball of mud."
   },
   {
     "card_id": 210,
-    "prompt": "Friday afternoon deployment"
+    "prompt": "Friday afternoon deployment."
   },
   {
     "card_id": 211,
-    "prompt": "Piping random scripts from the internet into bash"
+    "prompt": "Piping random scripts from the internet into bash."
   },
   {
     "card_id": 212,
-    "prompt": "Github selfies"
+    "prompt": "Github selfies."
   },
   {
     "card_id": 213,
-    "prompt": "Production deployments that depend on GitHub"
+    "prompt": "Production deployments that depend on GitHub."
   },
   {
     "card_id": 214,
@@ -857,63 +857,63 @@
   },
   {
     "card_id": 215,
-    "prompt": "Cats"
+    "prompt": "Cats."
   },
   {
     "card_id": 216,
-    "prompt": "Ponies"
+    "prompt": "Ponies."
   },
   {
     "card_id": 217,
-    "prompt": "Using Brain Fuck in production"
+    "prompt": "Using BrainFuck in production."
   },
   {
     "card_id": 218,
-    "prompt": "Picking the best color to paint your bike shed"
+    "prompt": "Picking the best color to paint your bike shed."
   },
   {
     "card_id": 219,
-    "prompt": "Server cages"
+    "prompt": "Server cages."
   },
   {
     "card_id": 220,
-    "prompt": "Copy-on-write"
+    "prompt": "Copy-on-write."
   },
   {
     "card_id": 221,
-    "prompt": "deduplication"
+    "prompt": "deduplication."
   },
   {
     "card_id": 222,
-    "prompt": "Program Management"
+    "prompt": "Program management."
   },
   {
     "card_id": 223,
-    "prompt": "Product Managers"
+    "prompt": "Product managers."
   },
   {
     "card_id": 224,
-    "prompt": "A coked-up tech recruiter"
+    "prompt": "A coked-up tech recruiter."
   },
   {
     "card_id": 225,
-    "prompt": "A contractor that tells you it was a real learning experience"
+    "prompt": "A contractor that tells you it was a real learning experience."
   },
   {
     "card_id": 226,
-    "prompt": "RTFM"
+    "prompt": "RTFM."
   },
   {
     "card_id": 227,
-    "prompt": "A 1996 Java applet"
+    "prompt": "A 1996 Java applet."
   },
   {
     "card_id": 228,
-    "prompt": "A virtual machine running a virtual machine until it brings on the Singularity"
+    "prompt": "A virtual machine running a virtual machine until it brings on the Singularity."
   },
   {
     "card_id": 229,
-    "prompt": "Sparkly Devops Princess"
+    "prompt": "Sparkly Devops Princess."
   },
   {
     "card_id": 230,
@@ -921,47 +921,47 @@
   },
   {
     "card_id": 231,
-    "prompt": "A series of tubes"
+    "prompt": "A series of tubes."
   },
   {
     "card_id": 232,
-    "prompt": "A literal cluster fuck"
+    "prompt": "A literal cluster fuck."
   },
   {
     "card_id": 233,
-    "prompt": "The library that imports all other libraries"
+    "prompt": "The library that imports all other libraries."
   },
   {
     "card_id": 234,
-    "prompt": "The tech lead's shitty pet project"
+    "prompt": "The tech lead's shitty pet project."
   },
   {
     "card_id": 235,
-    "prompt": "An entirely commented out file"
+    "prompt": "An entirely commented out file."
   },
   {
     "card_id": 236,
-    "prompt": "A pull request with a winking smiley"
+    "prompt": "A pull request with a winking smiley."
   },
   {
     "card_id": 237,
-    "prompt": "Former employees who still have admin access to live production servers"
+    "prompt": "Former employees who still have admin access to live production servers."
   },
   {
     "card_id": 238,
-    "prompt": "The much neglected IPv5"
+    "prompt": "The much neglected IPv5."
   },
   {
     "card_id": 239,
-    "prompt": "Cron jobs that edit cron jobs"
+    "prompt": "Cron jobs that edit cron jobs."
   },
   {
     "card_id": 240,
-    "prompt": "Snail scale"
+    "prompt": "Snail scale."
   },
   {
     "card_id": 241,
-    "prompt": "Testing positive for mongonucleosis"
+    "prompt": "Testing positive for mongonucleosis."
   },
   {
     "card_id": 242,
@@ -969,19 +969,19 @@
   },
   {
     "card_id": 243,
-    "prompt": "Little Bobby Tables"
+    "prompt": "Little Bobby Tables."
   },
   {
     "card_id": 244,
-    "prompt": "Solar flares"
+    "prompt": "Solar flares."
   },
   {
     "card_id": 245,
-    "prompt": "Re-implementing TCP over TCP"
+    "prompt": "Re-implementing TCP over TCP."
   },
   {
     "card_id": 246,
-    "prompt": "OAuth"
+    "prompt": "OAuth."
   },
   {
     "card_id": 247,
@@ -989,7 +989,7 @@
   },
   {
     "card_id": 248,
-    "prompt": "Losing the root password"
+    "prompt": "Losing the root password."
   },
   {
     "card_id": 249,
@@ -1001,67 +1001,67 @@
   },
   {
     "card_id": 251,
-    "prompt": "Server logs"
+    "prompt": "Server logs."
   },
   {
     "card_id": 252,
-    "prompt": "Penetration test"
+    "prompt": "Penetration test."
   },
   {
     "card_id": 253,
-    "prompt": "Deploying on a Friday afternoon"
+    "prompt": "Deploying on a Friday afternoon."
   },
   {
     "card_id": 254,
-    "prompt": "Too many authorization failures"
+    "prompt": "Too many authorization failures."
   },
   {
     "card_id": 255,
-    "prompt": "Two single quotes"
+    "prompt": "Two single quotes."
   },
   {
     "card_id": 256,
-    "prompt": "The Unix Epoch"
+    "prompt": "The Unix Epoch."
   },
   {
     "card_id": 257,
-    "prompt": "0 day exploits"
+    "prompt": "0 day exploits."
   },
   {
     "card_id": 258,
-    "prompt": "Tribal knowledge"
+    "prompt": "Tribal knowledge."
   },
   {
     "card_id": 259,
-    "prompt": "RHEL4"
+    "prompt": "RHEL4."
   },
   {
     "card_id": 260,
-    "prompt": "Syntax errors"
+    "prompt": "Syntax errors."
   },
   {
     "card_id": 261,
-    "prompt": "Pre-caffeine typos"
+    "prompt": "Pre-caffeine typos."
   },
   {
     "card_id": 262,
-    "prompt": "Banana Pi"
+    "prompt": "Banana Pi."
   },
   {
     "card_id": 263,
-    "prompt": "RAID 0"
+    "prompt": "RAID 0."
   },
   {
     "card_id": 264,
-    "prompt": "Pip"
+    "prompt": "Pip."
   },
   {
     "card_id": 265,
-    "prompt": "PyPy"
+    "prompt": "PyPy."
   },
   {
     "card_id": 266,
-    "prompt": "Complete ineptitude"
+    "prompt": "Complete ineptitude."
   },
   {
     "card_id": 267,
@@ -1069,215 +1069,215 @@
   },
   {
     "card_id": 268,
-    "prompt": "NSA FOIA request"
+    "prompt": "NSA FOIA request."
   },
   {
     "card_id": 269,
-    "prompt": "Kanban boards"
+    "prompt": "Kanban boards."
   },
   {
     "card_id": 270,
-    "prompt": "A fucking segmentation fault"
+    "prompt": "A fucking segmentation fault."
   },
   {
     "card_id": 271,
-    "prompt": "Cheap alcohol"
+    "prompt": "Cheap alcohol."
   },
   {
     "card_id": 272,
-    "prompt": "Legacy code"
+    "prompt": "Legacy code."
   },
   {
     "card_id": 273,
-    "prompt": "Long hours"
+    "prompt": "Long hours."
   },
   {
     "card_id": 274,
-    "prompt": "General distrust"
+    "prompt": "General distrust."
   },
   {
     "card_id": 275,
-    "prompt": "Excitement"
+    "prompt": "Excitement."
   },
   {
     "card_id": 276,
-    "prompt": "Love"
+    "prompt": "Love."
   },
   {
     "card_id": 277,
-    "prompt": "Lorem ipsum text"
+    "prompt": "Lorem ipsum text."
   },
   {
     "card_id": 278,
-    "prompt": "Algorithms"
+    "prompt": "Algorithms."
   },
   {
     "card_id": 279,
-    "prompt": "The user interface"
+    "prompt": "The user interface."
   },
   {
     "card_id": 280,
-    "prompt": "Debugging"
+    "prompt": "Debugging."
   },
   {
     "card_id": 281,
-    "prompt": "Adding another damn feature"
+    "prompt": "Adding another damn feature."
   },
   {
     "card_id": 282,
-    "prompt": "The source code"
+    "prompt": "The source code."
   },
   {
     "card_id": 283,
-    "prompt": "Memory leaks"
+    "prompt": "Memory leaks."
   },
   {
     "card_id": 284,
-    "prompt": "“413: Entity Too Large” errors"
+    "prompt": "“413: Entity Too Large” errors."
   },
   {
     "card_id": 285,
-    "prompt": "Programming while drunk"
+    "prompt": "Programming while drunk."
   },
   {
     "card_id": 286,
-    "prompt": "Programming while high"
+    "prompt": "Programming while high."
   },
   {
     "card_id": 287,
-    "prompt": "A peer that doesn’t believe in peer reviews"
+    "prompt": "A peer that doesn’t believe in peer reviews."
   },
   {
     "card_id": 288,
-    "prompt": "An app with no logging"
+    "prompt": "An app with no logging."
   },
   {
     "card_id": 289,
-    "prompt": "Monkeys"
+    "prompt": "Monkeys."
   },
   {
     "card_id": 290,
-    "prompt": "“Hello World” program"
+    "prompt": "“Hello World” program."
   },
   {
     "card_id": 291,
-    "prompt": "College students"
+    "prompt": "College students."
   },
   {
     "card_id": 292,
-    "prompt": "Terabytes and terabytes of porn"
+    "prompt": "Terabytes and terabytes of porn."
   },
   {
     "card_id": 293,
-    "prompt": "Error messages"
+    "prompt": "Error messages."
   },
   {
     "card_id": 294,
-    "prompt": "Balls"
+    "prompt": "Balls."
   },
   {
     "card_id": 295,
-    "prompt": "A coked-out hamster running all over a keyboard"
+    "prompt": "A coked-out hamster running all over a keyboard."
   },
   {
     "card_id": 296,
-    "prompt": "Plugging a 20-amp device into a 15-amp circuit"
+    "prompt": "Plugging a 20-amp device into a 15-amp circuit."
   },
   {
     "card_id": 297,
-    "prompt": "The Halotron fire suppression system"
+    "prompt": "The Halotron fire suppression system."
   },
   {
     "card_id": 298,
-    "prompt": "Uninterruptible power supplies"
+    "prompt": "Uninterruptible power supplies."
   },
   {
     "card_id": 299,
-    "prompt": "UPSes catching on fire"
+    "prompt": "UPSes catching on fire."
   },
   {
     "card_id": 300,
-    "prompt": "Nonexistent cable management"
+    "prompt": "Nonexistent cable management."
   },
   {
     "card_id": 301,
-    "prompt": "A barely functional air conditioning unit"
+    "prompt": "A barely functional air conditioning unit."
   },
   {
     "card_id": 302,
-    "prompt": "That one developer who uses GitLab"
+    "prompt": "That one developer who uses GitLab."
   },
   {
     "card_id": 303,
-    "prompt": "Comments in the code"
+    "prompt": "Comments in the code."
   },
   {
     "card_id": 304,
-    "prompt": "A room full of monkeys banging on keyboards"
+    "prompt": "A room full of monkeys banging on keyboards."
   },
   {
     "card_id": 305,
-    "prompt": "Stack Overflow"
+    "prompt": "StackOverflow."
   },
   {
     "card_id": 306,
-    "prompt": "C++"
+    "prompt": "C++."
   },
   {
     "card_id": 307,
-    "prompt": "Shitty whitespace"
+    "prompt": "Shitty whitespace."
   },
   {
     "card_id": 308,
-    "prompt": "Assembly code"
+    "prompt": "Assembly code."
   },
   {
     "card_id": 309,
-    "prompt": "Python code"
+    "prompt": "Python code."
   },
   {
     "card_id": 310,
-    "prompt": "Java"
+    "prompt": "Java."
   },
   {
     "card_id": 311,
-    "prompt": "Copying code from Stack Overflow"
+    "prompt": "Copying code from StackOverflow."
   },
   {
     "card_id": 312,
-    "prompt": "The AI apocalypse"
+    "prompt": "The AI apocalypse."
   },
   {
     "card_id": 313,
-    "prompt": "USB 3.9 Gen 8x4 SuperExtraSpeed 50Gbit/s"
+    "prompt": "USB 3.9 Gen 8x4 SuperExtraSpeed 50Gbit/s."
   },
   {
     "card_id": 314,
-    "prompt": "Using the print statement as a debugging tool"
+    "prompt": "Using the print statement as a debugging tool."
   },
   {
     "card_id": 315,
-    "prompt": "Username: admin/Password: admin:"
+    "prompt": "Username: admin/Password: admin"
   },
   {
     "card_id": 316,
-    "prompt": "SQL"
+    "prompt": "SQL."
   },
   {
     "card_id": 317,
-    "prompt": "Being unable to exit Vim"
+    "prompt": "Being unable to exit Vim."
   },
   {
     "card_id": 318,
-    "prompt": "Web apps that only work correctly in IE 8"
+    "prompt": "Web apps that only work correctly in IE 8."
   },
   {
     "card_id": 319,
-    "prompt": "A computer vision model that can't tell the difference between an owl and a pineapple"
+    "prompt": "A computer vision model that can't tell the difference between an owl and a pineapple."
   },
   {
     "card_id": 320,
-    "prompt": "That one person who always uses Reply All"
+    "prompt": "That one person who always uses Reply All."
   },
   {
     "card_id": 321,
@@ -1285,150 +1285,150 @@
   },
   {
     "card_id": 322,
-    "prompt": "Backup data"
+    "prompt": "Backup data."
   },
   {
     "card_id": 323,
-    "prompt": "A box full of optical fiber"
+    "prompt": "A box full of optical fiber."
   },
   {
     "card_id": 324,
-    "prompt": "Fried rats that ate through electrical insulation"
+    "prompt": "Fried rats that ate through electrical insulation."
   },
   {
     "card_id": 325,
-    "prompt": "Cowbell"
+    "prompt": "Cowbell."
   },
   {
     "card_id": 326,
-    "prompt": "Critical hospital patient records"
+    "prompt": "Critical hospital patient records."
   },
   {
     "card_id": 327,
-    "prompt": "Code repository"
+    "prompt": "Code repository."
   },
   {
     "card_id": 328,
-    "prompt": "Configuration files"
+    "prompt": "Configuration files."
   },
   {
     "card_id": 329,
-    "prompt": "Being fifteen directories deep with no sign of stopping"
+    "prompt": "Being fifteen directories deep with no sign of stopping."
   },
   {
     "card_id": 330,
-    "prompt": "Questionable adult materials"
+    "prompt": "Questionable adult materials."
   },
   {
     "card_id": 331,
-    "prompt": "A water-based fire extinguisher"
+    "prompt": "A water-based fire extinguisher."
   },
   {
     "card_id": 332,
-    "prompt": "Lizard people"
+    "prompt": "Lizard people."
   },
   {
     "card_id": 333,
-    "prompt": "Mark Zuckerberg in a bikini"
+    "prompt": "Mark Zuckerberg in a bikini."
   },
   {
     "card_id": 334,
-    "prompt": "Bill Gates as a dominatrix"
+    "prompt": "Bill Gates as a dominatrix."
   },
   {
     "card_id": 335,
-    "prompt": "Monkeys"
+    "prompt": "Monkeys."
   },
   {
     "card_id": 336,
-    "prompt": "Highly intelligent orangutans"
+    "prompt": "Highly intelligent orangutans."
   },
   {
     "card_id": 337,
-    "prompt": "A PUE of 1.9"
+    "prompt": "A PUE of 1.9."
   },
   {
     "card_id": 338,
-    "prompt": "A hot pile of butt-trash"
+    "prompt": "A hot pile of butt-trash."
   },
   {
     "card_id": 339,
-    "prompt": "A raging dumpster fire"
+    "prompt": "A raging dumpster fire."
   },
   {
     "card_id": 340,
-    "prompt": "Ants"
+    "prompt": "Ants."
   },
   {
     "card_id": 341,
-    "prompt": "A SQL injection attack"
+    "prompt": "A SQL injection attack."
   },
   {
     "card_id": 342,
-    "prompt": "Slack"
+    "prompt": "Slack."
   },
   {
     "card_id": 343,
-    "prompt": "GitHub"
+    "prompt": "GitHub."
   },
   {
     "card_id": 344,
-    "prompt": "A Steve McConnell textbook"
+    "prompt": "A Steve McConnell textbook."
   },
   {
     "card_id": 345,
-    "prompt": "Apple Xcode"
+    "prompt": "Apple Xcode."
   },
   {
     "card_id": 346,
-    "prompt": "Oracle SQL Developer crashes"
+    "prompt": "Oracle SQL Developer crashes."
   },
   {
     "card_id": 347,
-    "prompt": "The GNU General Public License v3.0"
+    "prompt": "The GNU General Public License v3.0."
   },
   {
     "card_id": 348,
-    "prompt": "A developer that hasn't seen the sun in over two weeks"
+    "prompt": "A developer that hasn't seen the sun in over two weeks."
   },
   {
     "card_id": 349,
-    "prompt": "A squirrel running around the datacenter"
+    "prompt": "A squirrel running around the datacenter."
   },
   {
     "card_id": 350,
-    "prompt": "An IPMI interface with no security"
+    "prompt": "An IPMI interface with no security."
   },
   {
     "card_id": 351,
-    "prompt": "Birds pissing and shitting on servers"
+    "prompt": "Birds pissing and shitting on servers."
   },
   {
     "card_id": 352,
-    "prompt": "A squirrel that exploded after climbing into the main transformer"
+    "prompt": "A squirrel that exploded after climbing into the main transformer."
   },
   {
     "card_id": 353,
-    "prompt": "Someone driving a backhoe through a fiber backbone"
+    "prompt": "Someone driving a backhoe through a fiber backbone."
   },
   {
     "card_id": 354,
-    "prompt": "A snake electrocution causing a datacenter power outage"
+    "prompt": "A snake electrocution causing a datacenter power outage."
   },
   {
     "card_id": 355,
-    "prompt": "Server fans"
+    "prompt": "Server fans."
   },
   {
     "card_id": 356,
-    "prompt": "A turducken"
+    "prompt": "A turducken."
   },
   {
     "card_id": 357,
-    "prompt": "Bees"
+    "prompt": "Bees."
   },
   {
     "card_id": 358,
-    "prompt": "A datacenter with its own weather systems"
+    "prompt": "A datacenter so bit it has its own weather systems."
   }
 ]
